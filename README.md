@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://github.com/RobinAlonzo/RobinAlonzo/raw/main/gifPerso.gif" width="100%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinAlonzo&theme=tokyonight)
