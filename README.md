@@ -3,7 +3,7 @@
 </div>
 
 <div id="counter" alignt="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" padding-left="100px"/>
 </div>
 
 
