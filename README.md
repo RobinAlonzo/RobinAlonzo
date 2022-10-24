@@ -3,8 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=RobinAlonzo&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="counter">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" width="100"/>
 </div>
 
   <h1>
