@@ -40,8 +40,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RobinAlonzo&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinAlonzo&langs_count=10&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinAlonzo&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
