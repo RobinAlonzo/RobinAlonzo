@@ -40,7 +40,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RobinAlonzo&theme=dark&hide_border=true&locale=fr)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinAlonzo&exclude_repo=relations-bidrirectionelles&langs_count=10&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinAlonzo&exclude_repo=relations-bidrirectionelles&langs_count=10&layout=compact&hide=html,css,scss,javascript,qmake)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
