@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="center"> 
-  Bienvenue sur mon github, les projets présents sont réalisés soit dans le cadre de mes études ou dans le cadre de mes activités personnels. 
+  Bienvenue sur mon github, les projets présents sont réalisés soit dans le cadre de mes études ou dans le cadre de mes activitées personnelles. 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
